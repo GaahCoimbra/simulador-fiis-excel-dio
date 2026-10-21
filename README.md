@@ -1,4 +1,4 @@
-Simulador de Investimentos em Fundos Imobiliários (FIIs)
+Simulador de Investimentos em Fundos Imobiliários (FIIs). Feito por Gabriel Coimbra.
 Projeto desenvolvido para o desafio prático do bootcamp da DIO ministrado pelo Expert Felipe Aguiar.
 Este projeto consiste em uma ferramenta interativa desenvolvida em Microsoft Excel com interface inspirada em aplicativos Mobile. A aplicação auxilia investidores na simulação de aportes mensais, estimativa de dividendos passivos e distribuição ideal de carteira por perfil de risco.
 A planilha foi criada para responder imediatamente às seguintes perguntas de planejamento financeiro: Quanto investir por mês? Por quantos anos? Qual a taxa de rendimento mensal? Quanto de patrimônio vai acumular? Quanto vai receber de dividendos por mês?
